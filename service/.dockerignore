@@ -1,0 +1,12 @@
+node_modules
+**/*.ts
+
+.env.local
+.env.*
+.env
+
+*.md
+tsconfig.json
+config
+models
+src
